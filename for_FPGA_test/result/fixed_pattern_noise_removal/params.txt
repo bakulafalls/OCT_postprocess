@@ -1,0 +1,8 @@
+only using necessary steps + fixed pattern noise removal
+B-scans for noise determination=1
+once at start of measurement
+
+max=1
+min=0
+coeff=0.0001
+addend=0

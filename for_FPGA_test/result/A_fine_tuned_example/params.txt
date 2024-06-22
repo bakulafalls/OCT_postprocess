@@ -1,0 +1,14 @@
+k-linearization（cubic)
+c0=5.624974
+c1=1778.527066
+c2=258.211630
+c3=1.054058
+
+windowing(hanning)
+fill factor=0.8
+center position=0.5
+
+max=80
+min=20
+coeff=0.0400
+addend=-1.1000
