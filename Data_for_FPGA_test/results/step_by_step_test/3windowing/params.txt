@@ -1,0 +1,11 @@
+bitshift+ k-linearization(cubic) + windowing(hanning)
+
+k-linearization parameters:
+c0=5.624974
+c1=1778.527066
+c2=258.211630
+c3=1.054058
+
+windowing parameters:
+fill factor = 0.8
+center positions = 0.5

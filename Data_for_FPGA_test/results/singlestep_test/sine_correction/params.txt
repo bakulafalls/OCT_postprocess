@@ -1,0 +1,6 @@
+only using necessary steps + sine_correction
+
+max=1
+min=0
+coeff=0.0001
+addend=0

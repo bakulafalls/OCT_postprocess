@@ -1,0 +1,10 @@
+only using necessary steps + k-linearization(linear)
+c0=5.624974
+c1=1778.527066
+c2=258.211630
+c3=1.054058
+
+max=1
+min=0
+coeff=0.0001
+addend=0
